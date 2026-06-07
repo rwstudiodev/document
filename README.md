@@ -1,4 +1,5 @@
 viết doc theo cấu trúc sau: 
+```
 docs/
 │
 ├── product/
@@ -143,7 +144,7 @@ docs/
 ├── drawio/
 ├── mermaid/
 └── excalidraw/
-
+```
 
 file readme có bổ sung Thứ tự đọc dành cho người mới vào dự án
 
